@@ -4,34 +4,34 @@
   "packs": [
     {
       "id": "coin_150",
-      "coins": 150,
-      "title": "کیف شروع",
-      "desc": "برای چند راهنمای اول",
-      "priceLabel": "۹٬۰۰۰ تومان",
+      "coins": 1500,
+      "title": "1500 سکه",
+      "desc": "این تعداد سکه برای شروع خوبه",
+      "priceLabel": "1۹٬۰۰۰ تومان",
       "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-500.png"
     },
     {
       "id": "coin_400",
-      "coins": 400,
-      "title": "کیف رایج",
+      "coins": 4000,
+      "title": "4000 سکه",
       "desc": "همراه مطمئن مراحل",
-      "priceLabel": "۱۹٬۰۰۰ تومان",
+      "priceLabel": "3۹٬۰۰۰ تومان",
       "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-1500.png"
     },
     {
       "id": "coin_900",
-      "coins": 900,
-      "title": "کیف حرفه‌ای",
-      "desc": "برای واژه‌بازهای جدی",
-      "priceLabel": "۳۹٬۰۰۰ تومان",
+      "coins": 9000,
+      "title": "صندوقچه 9000 سکه + 1 گردونه",
+      "desc": "برای پیشرفت سریع این بسته نیازته",
+      "priceLabel": "5۹٬۰۰۰ تومان",
       "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-4000.png"
     },
     {
       "id": "coin_2000",
-      "coins": 2000,
-      "title": "گنجینهٔ میرزا",
+      "coins": 20000,
+      "title": "صندوقچه 20000 سکه + 2 گردونه",
       "desc": "بیشترین سکه + بهترین قیمت",
-      "priceLabel": "۷۹٬۰۰۰ تومان",
+      "priceLabel": "8۹٬۰۰۰ تومان",
       "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-9000.png"
     }
   ],

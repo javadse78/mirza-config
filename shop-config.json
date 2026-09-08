@@ -5,33 +5,33 @@
     {
       "id": "coin_150",
       "coins": 1500,
-      "title": "1500 سکه",
+      "title": "۱۵۰۰ سکه",
       "desc": "این تعداد سکه برای شروع خوبه",
-      "priceLabel": "1۹٬۰۰۰ تومان",
+      "priceLabel": "۱۹٬۰۰۰ تومان",
       "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-500.png"
     },
     {
       "id": "coin_400",
       "coins": 4000,
-      "title": "4000 سکه",
+      "title": "۴۰۰۰ سکه",
       "desc": "همراه مطمئن مراحل",
-      "priceLabel": "3۹٬۰۰۰ تومان",
+      "priceLabel": "۳۹٬۰۰۰ تومان",
       "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-1500.png"
     },
     {
       "id": "coin_900",
       "coins": 9000,
-      "title": "صندوقچه 9000 سکه + 1 گردونه",
+      "title": "صندوقچه ۹۰۰۰ سکه + ۱ گردونه",
       "desc": "برای پیشرفت سریع این بسته نیازته",
-      "priceLabel": "5۹٬۰۰۰ تومان",
+      "priceLabel": "۵۹٬۰۰۰ تومان",
       "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-4000.png"
     },
     {
       "id": "coin_2000",
       "coins": 20000,
-      "title": "صندوقچه 20000 سکه + 2 گردونه",
+      "title": "صندوقچه ۲۰۰۰۰ سکه + ۲ گردونه",
       "desc": "بیشترین سکه + بهترین قیمت",
-      "priceLabel": "8۹٬۰۰۰ تومان",
+      "priceLabel": "۸۹٬۰۰۰ تومان",
       "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-9000.png"
     }
   ],

@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "message": "فروشگاه میرزا باز است — هر بسته بلافاصله بعد از پرداخت به کیف تو اضافه می‌شود.",
+  "packs": [
+    {
+      "id": "coin_150",
+      "coins": 150,
+      "title": "کیف شروع",
+      "desc": "برای چند راهنمای اول",
+      "priceLabel": "۹٬۰۰۰ تومان",
+      "image": "https://raw.githubusercontent.com/USERNAME/mirza-config/main/images/coin-500.png"
+    },
+    {
+      "id": "coin_400",
+      "coins": 400,
+      "title": "کیف رایج",
+      "desc": "همراه مطمئن مراحل",
+      "priceLabel": "۱۹٬۰۰۰ تومان",
+      "image": "https://raw.githubusercontent.com/USERNAME/mirza-config/main/images/coin-1500.png"
+    },
+    {
+      "id": "coin_900",
+      "coins": 900,
+      "title": "کیف حرفه‌ای",
+      "desc": "برای واژه‌بازهای جدی",
+      "priceLabel": "۳۹٬۰۰۰ تومان",
+      "image": "https://raw.githubusercontent.com/USERNAME/mirza-config/main/images/coin-4000.png"
+    },
+    {
+      "id": "coin_2000",
+      "coins": 2000,
+      "title": "گنجینهٔ میرزا",
+      "desc": "بیشترین سکه + بهترین قیمت",
+      "priceLabel": "۷۹٬۰۰۰ تومان",
+      "image": "https://raw.githubusercontent.com/USERNAME/mirza-config/main/images/coin-9000.png"
+    }
+  ],
+  "spin": {
+    "enabled": true,
+    "freeIntervalHours": 24,
+    "prizes": [
+      { "coins": 300, "weight": 26 },
+      { "coins": 600, "weight": 21 },
+      { "coins": 1000, "weight": 16 },
+      { "coins": 2000, "weight": 12 },
+      { "coins": 3000, "weight": 9 },
+      { "coins": 5000, "weight": 7 },
+      { "coins": 8000, "weight": 4 },
+      { "coins": 10000, "weight": 2, "jackpot": true }
+    ]
+  }
+}

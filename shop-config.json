@@ -8,7 +8,7 @@
       "title": "کیف شروع",
       "desc": "برای چند راهنمای اول",
       "priceLabel": "۹٬۰۰۰ تومان",
-      "image": "https://raw.githubusercontent.com/USERNAME/mirza-config/main/images/coin-500.png"
+      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-500.png"
     },
     {
       "id": "coin_400",
@@ -16,7 +16,7 @@
       "title": "کیف رایج",
       "desc": "همراه مطمئن مراحل",
       "priceLabel": "۱۹٬۰۰۰ تومان",
-      "image": "https://raw.githubusercontent.com/USERNAME/mirza-config/main/images/coin-1500.png"
+      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-1500.png"
     },
     {
       "id": "coin_900",
@@ -24,7 +24,7 @@
       "title": "کیف حرفه‌ای",
       "desc": "برای واژه‌بازهای جدی",
       "priceLabel": "۳۹٬۰۰۰ تومان",
-      "image": "https://raw.githubusercontent.com/USERNAME/mirza-config/main/images/coin-4000.png"
+      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-4000.png"
     },
     {
       "id": "coin_2000",
@@ -32,7 +32,7 @@
       "title": "گنجینهٔ میرزا",
       "desc": "بیشترین سکه + بهترین قیمت",
       "priceLabel": "۷۹٬۰۰۰ تومان",
-      "image": "https://raw.githubusercontent.com/USERNAME/mirza-config/main/images/coin-9000.png"
+      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-9000.png"
     }
   ],
   "spin": {

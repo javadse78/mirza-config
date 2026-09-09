@@ -40,11 +40,11 @@
     "freeIntervalHours": 24,
     "prizes": [
       { "coins": 300, "weight": 26 },
-      { "coins": 600, "weight": 21 },
-      { "coins": 1000, "weight": 16 },
-      { "coins": 2000, "weight": 12 },
-      { "coins": 3000, "weight": 9 },
-      { "coins": 5000, "weight": 7 },
+      { "coins": 600, "weight": 15 },
+      { "coins": 1000, "weight": 11 },
+      { "coins": 2000, "weight": 9 },
+      { "coins": 3000, "weight": 7 },
+      { "coins": 5000, "weight": 5 },
       { "coins": 8000, "weight": 4 },
       { "coins": 10000, "weight": 2, "jackpot": true }
     ]

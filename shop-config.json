@@ -24,7 +24,9 @@
       "title": "صندوقچه ۹۰۰۰ سکه + ۱ گردونه",
       "desc": "برای پیشرفت سریع این بسته نیازته",
       "priceLabel": "۵۹٬۰۰۰ تومان",
-      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-4000.png"
+      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-4000.png",
+      "wheel": "silver",
+      "wheelCount": 1
     },
     {
       "id": "coin_2000",
@@ -32,21 +34,46 @@
       "title": "صندوقچه ۲۰۰۰۰ سکه + ۲ گردونه",
       "desc": "بیشترین سکه + بهترین قیمت",
       "priceLabel": "۸۹٬۰۰۰ تومان",
-      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-9000.png"
+      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-9000.png",
+      "wheel": "silver",
+      "wheelCount": 2
     }
   ],
   "spin": {
     "enabled": true,
     "freeIntervalHours": 24,
+    "repeatCostCoins": 1500,
     "prizes": [
-      { "coins": 300, "weight": 26 },
-      { "coins": 600, "weight": 15 },
-      { "coins": 1000, "weight": 11 },
-      { "coins": 2000, "weight": 9 },
-      { "coins": 3000, "weight": 7 },
-      { "coins": 5000, "weight": 5 },
-      { "coins": 8000, "weight": 4 },
-      { "coins": 10000, "weight": 2, "jackpot": true }
+      { "coins": 300, "weight": 45 },
+      { "coins": 600, "weight": 30 },
+      { "coins": 1000, "weight": 14 },
+      { "coins": 2000, "weight": 6 },
+      { "coins": 3000, "weight": 3 },
+      { "coins": 5000, "weight": 1 },
+      { "coins": 8000, "weight": 1 },
+      { "coins": 10000, "weight": 1, "jackpot": true }
+    ]
+  },
+  "wheels": {
+    "silver": [
+      { "coins": 1000, "weight": 46 },
+      { "coins": 2000, "weight": 25 },
+      { "coins": 4000, "weight": 11 },
+      { "coins": 6000, "weight": 6 },
+      { "coins": 8000, "weight": 3 },
+      { "coins": 12000, "weight": 2 },
+      { "coins": 16000, "weight": 1 },
+      { "coins": 25000, "weight": 1, "jackpot": true }
+    ],
+    "gold": [
+      { "coins": 2500, "weight": 44 },
+      { "coins": 5000, "weight": 24 },
+      { "coins": 8000, "weight": 11 },
+      { "coins": 12000, "weight": 6 },
+      { "coins": 18000, "weight": 3 },
+      { "coins": 25000, "weight": 2 },
+      { "coins": 35000, "weight": 1 },
+      { "coins": 50000, "weight": 1, "jackpot": true }
     ]
   }
 }

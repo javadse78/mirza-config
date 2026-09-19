@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "message": "فروشگاه میرزا باز است — بهترین پیشنهاد‌ها رو میرزا واژه‌‌باف واست داره..",
+  "packs": [
+    {
+      "id": "coin_150",
+      "coins": 1500,
+      "title": "۱۵۰۰ سکه",
+      "desc": "این تعداد سکه برای شروع خوبه",
+      "priceLabel": "۱۹٬۰۰۰ تومان",
+      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-500.png"
+    },
+    {
+      "id": "coin_400",
+      "coins": 4000,
+      "title": "۴۰۰۰ سکه",
+      "desc": "همراه مطمئن مراحل",
+      "priceLabel": "۳۹٬۰۰۰ تومان",
+      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-1500.png"
+    },
+    {
+      "id": "coin_900",
+      "coins": 9000,
+      "title": "صندوقچه ۹۰۰۰ سکه + ۱ گردونه",
+      "desc": "برای پیشرفت سریع این بسته نیازته",
+      "priceLabel": "۵۹٬۰۰۰ تومان",
+      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-4000.png",
+      "wheel": "silver",
+      "wheelCount": 1
+    },
+    {
+      "id": "coin_2000",
+      "coins": 20000,
+      "title": "صندوقچه ۲۰۰۰۰ سکه + ۲ گردونه",
+      "desc": "بیشترین سکه + بهترین قیمت",
+      "priceLabel": "۸۹٬۰۰۰ تومان",
+      "image": "https://raw.githubusercontent.com/javadse78/mirza-config/main/images/coin-9000.png",
+      "wheel": "silver",
+      "wheelCount": 2
+    }
+  ],
+  "spin": {
+    "enabled": true,
+    "freeIntervalHours": 24,
+    "prizes": [
+      { "coins": 300, "weight": 45 },
+      { "coins": 600, "weight": 30 },
+      { "coins": 1000, "weight": 14 },
+      { "coins": 2000, "weight": 6 },
+      { "coins": 3000, "weight": 3 },
+      { "coins": 5000, "weight": 1 },
+      { "coins": 8000, "weight": 1 },
+      { "coins": 10000, "weight": 1, "jackpot": true }
+    ]
+  },
+  "wheels": {
+    "silver": [
+      { "coins": 1000, "weight": 46 },
+      { "coins": 2000, "weight": 25 },
+      { "coins": 4000, "weight": 11 },
+      { "coins": 6000, "weight": 6 },
+      { "coins": 8000, "weight": 3 },
+      { "coins": 12000, "weight": 2 },
+      { "coins": 16000, "weight": 1 },
+      { "coins": 25000, "weight": 1, "jackpot": true }
+    ],
+    "gold": [
+      { "coins": 2500, "weight": 44 },
+      { "coins": 5000, "weight": 24 },
+      { "coins": 8000, "weight": 11 },
+      { "coins": 12000, "weight": 6 },
+      { "coins": 18000, "weight": 3 },
+      { "coins": 25000, "weight": 2 },
+      { "coins": 35000, "weight": 1 },
+      { "coins": 50000, "weight": 1, "jackpot": true }
+    ]
+  },
+  "wheelProducts": [
+    { "id": "mirza_wheel_bronze", "spinType": "bronze", "title": "گردونهٔ برنزی", "priceLabel": "۱۹٬۰۰۰ تومان", "emoji": "🥉" },
+    { "id": "mirza_wheel_silver", "spinType": "silver", "title": "گردونهٔ نقره‌ای", "priceLabel": "۵۹٬۰۰۰ تومان", "emoji": "🥈" },
+    { "id": "mirza_wheel_gold", "spinType": "gold", "title": "گردونهٔ طلایی", "priceLabel": "۸۹٬۰۰۰ تومان", "emoji": "🥇" }
+  ]
+}
